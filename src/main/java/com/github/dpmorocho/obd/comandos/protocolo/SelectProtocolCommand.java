@@ -24,7 +24,7 @@ public class SelectProtocolCommand extends ObdProtocolCommand {
 
     @Override
     public String getName() {
-        return "Select Protocol " + protocol.name();
+        return "Protocolo " + protocol.name();
     }
 
 }

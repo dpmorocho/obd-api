@@ -10,7 +10,7 @@ public class ObdResetCommand extends ObdProtocolCommand {
     }
 
     /**
-     * @param other a {@link com.github.dpmorocho.obd.comandos.protocol.ObdResetCommand} object.
+     * @param other a {@link com.github.dpmorocho.obd.comandos.protocolo.ObdResetCommand} object.
      */
     public ObdResetCommand(ObdResetCommand other) {
         super(other);
